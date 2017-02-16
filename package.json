@@ -1,0 +1,26 @@
+{
+  "name": "facebook-access-token",
+  "version": "0.0.1",
+  "description": "...",
+  "author": "ISL <dev@isl.co>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/istrategylabs/facebook-access-token.git"
+  },
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.14.2",
+    "express": "~4.13.3",
+    "node-uuid": "~1.4.7",
+    "nunjucks": "~2.3.0",
+    "query-string": "~3.0.0",
+    "request": "~2.67.0"
+  },
+  "engineStrict": true,
+  "engines": {
+    "npm": "3.3.3",
+    "node": "4.2.1"
+  }
+}

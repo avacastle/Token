@@ -1,0 +1,6 @@
+{
+  "name": "Facebook Access Token Grabber",
+  "description": "A simple node application to grab a user or application access token from Facebook for any Facebook application.",
+  "repository": "https://github.com/istrategylabs/facebook-access-token",
+  "keywords": ["node", "express", "facebook", "access-token"]
+}
